@@ -104,3 +104,5 @@ public
 
 build/
 types/contracts
+
+.env
