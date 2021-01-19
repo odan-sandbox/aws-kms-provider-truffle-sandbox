@@ -1177,10 +1177,10 @@ await-semaphore@^0.1.3:
   resolved "https://registry.yarnpkg.com/await-semaphore/-/await-semaphore-0.1.3.tgz#2b88018cc8c28e06167ae1cdff02504f1f9688d3"
   integrity sha512-d1W2aNSYcz/sxYO4pMGX9vq65qOTu0P800epMud+6cYYX0QcT7zyqcxec3VWzpgvdXo57UWmVbZpLMjX2m1I7Q==
 
-aws-kms-provider@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/aws-kms-provider/-/aws-kms-provider-0.2.2.tgz#94df1d7cb547c80f6d22cb5a67dda99f2ea2c547"
-  integrity sha512-okhXInpGCjhknvvSLJ+npVUKbNT2wfyZHvLPZZf4IHwoOG0A5cVJOH/yZEA89SWun+VRYi4i+nuN+LXWJ6rwbA==
+aws-kms-provider@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/aws-kms-provider/-/aws-kms-provider-0.2.3.tgz#d86ebd39a308bc547c850a51d06bef12098f3f4e"
+  integrity sha512-WOW9yGO5ieHFLYwaCXkfNpaxnVbHklJUkPQ93x1OJUlUXWRLPnHsU6MxBauDIs70A7Tj4RyghW3CClke1Gypdw==
   dependencies:
     asn1js "^2.0.26"
     bn.js "^5.1.1"
